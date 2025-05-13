@@ -14,7 +14,7 @@ A simple **Paper Rock Scissors** game project with server support. Multiple play
 
 ## 🗂️ Project Files
 
-.  
+rock-paper-scissors-with-server/  
 ├── client_PS_project/  
 │ └── client.py # Connects a player to the server  
 │  
