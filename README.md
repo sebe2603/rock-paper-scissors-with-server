@@ -15,8 +15,12 @@ A simple **Paper Rock Scissors** game project with server support. Multiple play
 ## 🗂️ Project Files
 
 .  
-├── server.py # Starts the game server  
-└── client.py # Connects a player to the server
+├── client_PS_project/  
+│ └── client.py # Connects a player to the server  
+│  
+├── server_PS_project/  
+│ ├── server.py # Starts the game server  
+│ └── scores.txt # File storing the top scores  
 
 
 ## ▶️ How to Run
