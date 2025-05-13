@@ -1,8 +1,0 @@
-rock,1
-Kuba,0
-aASas,2
-yuyu,1
-gugu,0
-Seba,1
-Seba,0
-Bartek,0
