@@ -52,3 +52,13 @@ A simple **Paper Rock Scissors** game project with server support. Multiple play
 - The player chooses a move: paper, rock, or scissors.
 - The server responds with its own move and determines the result.
 - After each round, the server updates and displays the top 3 scores.
+
+  
+![Obraz1](https://github.com/user-attachments/assets/5a409a56-f8aa-4d31-8164-f469b5e90529)  
+![Obraz2](https://github.com/user-attachments/assets/f91ac844-4ef9-453e-8241-d2b2ba2554c2)  
+![Obraz3](https://github.com/user-attachments/assets/30dfbe47-10de-43f7-82a2-2a7cfbdac606)  
+![Obraz4](https://github.com/user-attachments/assets/e6783f76-0341-4fed-a725-a89a52164f1c)  
+![Obraz5](https://github.com/user-attachments/assets/d8864f8c-2e81-4cea-9375-d96b604e4144)  
+![Obraz6](https://github.com/user-attachments/assets/3cfdaad4-4947-43ff-a8c9-34b954cf33b9)  
+![Obraz7](https://github.com/user-attachments/assets/c3b001ec-3d97-47c7-96dc-bc5c4481ec4e)
+
